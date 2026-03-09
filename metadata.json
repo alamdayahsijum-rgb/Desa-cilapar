@@ -1,0 +1,5 @@
+{
+  "name": "Portal Desa Maju Jaya",
+  "description": "Sistem Informasi Desa (SID) terpadu untuk pelayanan publik, transparansi anggaran, dan informasi pembangunan desa.",
+  "requestFramePermissions": ["geolocation"]
+}
